@@ -59,11 +59,9 @@ me.say_hi()
 [![trophy](https://github-profile-trophy.vercel.app/?username=ntt2k&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## 🏊‍♂️ Weekly Development Breakdown
+## 🏊‍♂️ Language Stats
 
-![light](https://raw.githubusercontent.com/ntt2k/ntt2k/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
-
-![dark](https://raw.githubusercontent.com/ntt2k/ntt2k/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntt2k&theme=tokyonight)
 
 <!--
 **ntt2k/ntt2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

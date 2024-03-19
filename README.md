@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ntt2k.ntt2k)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-Hi, I'm Trung Nguyen, a Full-Stack Engineer from California. I like to work with Python, Golang, Javascript/Typescript and Rust. Believing in technology to make the world better, I am passionate about open-source software and enjoy experimenting with new ideas.
+Hi, I'm Trung Nguyen, a Full-Stack Engineer from US. I like to work with Python, Golang, Javascript/Typescript and Rust. Believing in technology to make the world better, I am passionate about open-source software and enjoy experimenting with new ideas.
 
 
 ```python
